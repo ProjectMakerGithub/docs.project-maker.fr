@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkproject_maker_documentation=self.webpackChunkproject_maker_documentation||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Bienvenue sur ProjectMaker","permalink":"/blog/Bienvenue"}]}')}}]);
