@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.project-maker.fr/blog</id>
+    <title>Project-Maker Blog</title>
+    <updated>2023-03-09T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.project-maker.fr/blog"/>
+    <subtitle>Project-Maker Blog</subtitle>
+    <icon>https://docs.project-maker.fr/img/logoV2.png</icon>
+    <entry>
+        <title type="html"><![CDATA[ProjectMaker est de retour !]]></title>
+        <id>https://docs.project-maker.fr/blog/projectmaker-is-back</id>
+        <link href="https://docs.project-maker.fr/blog/projectmaker-is-back"/>
+        <updated>2023-03-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is my first post on Docusaurus.]]></summary>
+        <content type="html"><![CDATA[<p>Chers amis de ProjectMaker,</p>
+<p>Nous sommes ravis de vous annoncer que ProjectMaker est de retour, plus fort que jamais ! Après une pause bien méritée, nous sommes excités de réouvrir nos portes et de vous accueillir à nouveau dans notre communauté.</p>
+<p>Votre fidélité et votre soutien continu sont les moteurs qui nous inspirent chaque jour. Nous avons travaillé sans relâche pour améliorer nos services, développer de nouvelles fonctionnalités et créer une expérience encore plus exceptionnelle pour vous.</p>
+<p>Les équipes de ProjectMaker ont redoublé d'efforts pour vous offrir des solutions innovantes et des projets passionnants. Nous croyons en la puissance de la collaboration et de la créativité, et nous sommes impatients de partager ces moments forts avec vous.</p>
+<p>Restez à l'écoute pour découvrir les nouveautés passionnantes que nous avons préparées. ProjectMaker revient avec un engagement renouvelé envers l'excellence, la qualité et l'innovation.</p>
+<p>Merci de faire partie de l'aventure ProjectMaker. Ensemble, construisons quelque chose de grand !</p>
+<p>Bienvenue de nouveau chez ProjectMaker !</p>
+<p>Cordialement,</p>
+<p><a href="https://docs.project-maker.fr/docs/team">L'équipe ProjectMaker</a></p>]]></content>
+        <author>
+            <name>leo.lb</name>
+            <uri>https://github.com/leo-lb29</uri>
+        </author>
+        <author>
+            <name>Merfox-Fire</name>
+        </author>
+        <author>
+            <name>cenoa</name>
+            <uri>https://github.com/cenoa</uri>
+        </author>
+        <author>
+            <name>LoKias</name>
+            <uri>https://github.com/LoKiasDev</uri>
+        </author>
+        <category label="ProjectMaker" term="ProjectMaker"/>
+    </entry>
+</feed>

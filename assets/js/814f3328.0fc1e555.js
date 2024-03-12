@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_project_maker_fr=self.webpackChunkdocs_project_maker_fr||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"ProjectMaker est de retour !","permalink":"/blog/projectmaker-is-back","unlisted":false}]}')}}]);

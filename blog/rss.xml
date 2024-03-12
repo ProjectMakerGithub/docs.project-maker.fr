@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Project-Maker Blog</title>
+        <link>https://docs.project-maker.fr/blog</link>
+        <description>Project-Maker Blog</description>
+        <lastBuildDate>Thu, 09 Mar 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>fr</language>
+        <item>
+            <title><![CDATA[ProjectMaker est de retour !]]></title>
+            <link>https://docs.project-maker.fr/blog/projectmaker-is-back</link>
+            <guid>https://docs.project-maker.fr/blog/projectmaker-is-back</guid>
+            <pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is my first post on Docusaurus.]]></description>
+            <content:encoded><![CDATA[<p>Chers amis de ProjectMaker,</p>
+<p>Nous sommes ravis de vous annoncer que ProjectMaker est de retour, plus fort que jamais ! Après une pause bien méritée, nous sommes excités de réouvrir nos portes et de vous accueillir à nouveau dans notre communauté.</p>
+<p>Votre fidélité et votre soutien continu sont les moteurs qui nous inspirent chaque jour. Nous avons travaillé sans relâche pour améliorer nos services, développer de nouvelles fonctionnalités et créer une expérience encore plus exceptionnelle pour vous.</p>
+<p>Les équipes de ProjectMaker ont redoublé d'efforts pour vous offrir des solutions innovantes et des projets passionnants. Nous croyons en la puissance de la collaboration et de la créativité, et nous sommes impatients de partager ces moments forts avec vous.</p>
+<p>Restez à l'écoute pour découvrir les nouveautés passionnantes que nous avons préparées. ProjectMaker revient avec un engagement renouvelé envers l'excellence, la qualité et l'innovation.</p>
+<p>Merci de faire partie de l'aventure ProjectMaker. Ensemble, construisons quelque chose de grand !</p>
+<p>Bienvenue de nouveau chez ProjectMaker !</p>
+<p>Cordialement,</p>
+<p><a href="https://docs.project-maker.fr/docs/team">L'équipe ProjectMaker</a></p>]]></content:encoded>
+            <category>ProjectMaker</category>
+        </item>
+    </channel>
+</rss>
