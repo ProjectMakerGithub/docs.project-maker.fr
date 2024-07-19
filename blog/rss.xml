@@ -4,7 +4,7 @@
         <title>Project-Maker Blog</title>
         <link>https://docs.project-maker.fr/blog</link>
         <description>Project-Maker Blog</description>
-        <lastBuildDate>Fry, 19 Jul 2024 20:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Fry, 19 Jul 2024 21:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[ProjectMaker est de retour !]]></title>
             <link>https://docs.project-maker.fr/blog/projectmaker-is-back</link>
             <guid>https://docs.project-maker.fr/blog/projectmaker-is-back</guid>
-            <pubDate>Fry, 19 Jul 2024 20:40:00 GMT</pubDate>
+            <pubDate>Fry, 19 Jul 2024 21:20:00 GMT</pubDate>
             <description><![CDATA[This is my first post on Docusaurus.]]></description>
             <content:encoded><![CDATA[<p>Chers amis de ProjectMaker,</p>
 <p>Nous sommes ravis de vous annoncer que ProjectMaker est de retour, plus fort que jamais ! Après une pause bien méritée, nous sommes excités de réouvrir nos portes et de vous accueillir à nouveau dans notre communauté.</p>
